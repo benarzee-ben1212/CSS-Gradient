@@ -1,0 +1,44 @@
+.div1 {
+width:800px;
+height:150px;
+background-color: black;
+margin-bottom: 20px;
+background-image: linear-gradient(180deg, rgb(228, 18, 18), rgb(48, 136, 74));
+
+}
+
+.div2 {
+    width:800px;
+    height:150px;
+    background-color: rgb(179, 103, 103);
+    margin-top: 10px;
+    background-image: linear-gradient(red, yellow, green);
+    
+}
+
+.div3 {
+    width:800px;
+    height:150px;
+    background-color: rgb(179, 103, 103);
+    margin-top: 10px;
+    background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+    
+}
+
+.div4 {
+    width:800px;
+    height:150px;
+    background-color: rgb(179, 103, 103);
+    margin-top: 10px;
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+    
+}
+
+.div5 {
+    width:800px;
+    height:150px;
+    background-color: rgb(179, 103, 103);
+    margin-top: 10px;
+    background-image: repeating-linear-gradient(red, yellow 10%, green 20%);
+    
+}
